@@ -4,6 +4,8 @@
 
 I design and build **scalable, intelligent systems** that transform ideas into working solutions. My work blends **software engineering principles** with **data-driven decision-making**, enabling me to adapt quickly to new technologies and problem domains.  
 
+🎓 I hold a **Master’s in Data Science** and a **Bachelor’s in Mathematics & Computer Science** from *Ibn Zohr University, Agadir*.  
+
 ---
 
 ## 🚀 What I Do
