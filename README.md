@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdeljalil Ounaceur  
 
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow.svg)](https://huggingface.co/Abdeljalil-Ounaceur)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue.svg)](https://www.linkedin.com/in/abdeljalil-ounaceur-33a657244/)
 
 💡 **Software Engineer | AI & Data Enthusiast | Problem Solver**  
 
@@ -37,7 +38,7 @@ I design and build **scalable, intelligent systems** that transform ideas into w
 
 ## 📫 Let's Connect
 - **Email:** abdeljalil.ounaceur@edu.uiz.ac.ma  
-- **LinkedIn:** [linkedin.com/in/abdeljalil-ounaceur](#)  
+- **LinkedIn:** [linkedin.com/in/abdeljalil-ounaceur-33a657244](https://www.linkedin.com/in/abdeljalil-ounaceur-33a657244/)  
 - **GitHub:** [github.com/AbdeljalilOunaceur](#)  
 - **Hugging Face:** [huggingface.co/Abdeljalil-Ounaceur](https://huggingface.co/Abdeljalil-Ounaceur)  
 
