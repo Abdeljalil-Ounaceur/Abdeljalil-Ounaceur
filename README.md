@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/🌐-Website-green.svg)](https://abdeljalil-ounaceur.me)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow.svg)](https://huggingface.co/Abdeljalil-Ounaceur)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue.svg)](https://www.linkedin.com/in/abdeljalil-ounaceur-33a657244/)
+[![Linked-In](https://img.shields.io/badge/🔗-LinkedIn-blue.svg)](https://www.linkedin.com/in/abdeljalil-ounaceur-33a657244/)
 
 💡 **Software Engineer | AI & Data Enthusiast | Problem Solver**  
 
